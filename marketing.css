@@ -1,0 +1,105 @@
+html{
+    background-color: aliceblue;
+}
+header {
+    background-color: #333;
+    background-image: url(digital\ marketing.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 150px;
+    text-align:left;
+    font-size: larger;
+    
+}
+body{
+    max-width: 100%;
+}
+.header{
+    color:#fff;
+    position: relative;
+    left:10%;
+    
+}
+.img3{
+    margin-left: 20%;
+}
+
+
+.image-container{
+    display: flex;
+    align-items:center;
+    gap:10px;
+}
+
+
+h2{
+    text-align: center;
+    text-decoration: double;
+    font-size:x-large;
+    color: brown;
+}
+.backdrop1{
+background-color: rgb(235, 191, 158);
+}
+.link2{
+    align-items: center;
+}
+.backdrop2{
+    background-color: rgb(201, 194, 194);
+}
+.backdrop3{
+    background-color: bisque;
+}
+    
+
+.inline-div{
+    display:inline;
+    gap: 30px;
+}
+a:visited{
+    color: purple
+}
+.box1{
+    border:1px solid rgb(0, 0, 0);
+    padding: 15px;
+    padding-left:18.5%;
+    display: inline;
+    background-color:rgb(235, 191, 158);
+}
+.box2{
+    border:1px solid black;
+    padding: 15px;
+    padding-left:18.5%;
+    display: inline;
+    background-color: rgb(201, 194, 194);
+    text-align: center;
+}
+.box3{
+    border:1px solid black;
+    padding: 15px;
+    padding-left:18.5%;
+    display: inline;
+    background-color:aquamarine
+}
+.box4{
+    border:1px solid black;
+    padding: 15px;
+    padding-left:18.9%;
+    display: inline;
+    background-color:rgb(91, 102, 98)
+}
+.div1{
+    padding: 3%;
+    background-color: rgb(193, 189, 185);
+    text-align: center;
+    text-decoration:overline;
+    text-decoration: underline;
+}
+.intro{
+    background-color: rgb(193, 189, 185);;
+}
+footer{
+    background-color: antiquewhite;
+    text-align: center;
+}
